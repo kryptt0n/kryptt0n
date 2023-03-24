@@ -15,12 +15,6 @@ I'm a 4th year student in Russian Technical University MIREA.<br>I'm really inte
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kryptt0n&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kryptt0n&icon=2&color=11)](https://visitcount.itsvg.in)
 
