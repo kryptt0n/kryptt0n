@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 4th year student in Russian Technological University MIREA.<br>I'm really interested in software development<br>Fav programming language - Java
+I'm a 1tst year student in Humber College. I have graduated from Russian Technological University MIREA.<br>I'm really interested in software development<br>Fav programming language - Java
 
 
 ## 🌐 Socials:
