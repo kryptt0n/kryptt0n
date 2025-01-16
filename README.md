@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 1tst year student in Humber College. I have graduated from Russian Technological University MIREA and have 1 year experience working in 1C company as a software developer.<br>I'm really interested in software development<br>Fav programming language - Java
+I'm a post-graduate student at Humber College. I have graduated from Russian Technological University MIREA and have 1 year experience working in 1C company as a software developer.<br>I'm really interested in software development<br>Fav programming language - Java
 
 
 ## 🌐 Socials:
